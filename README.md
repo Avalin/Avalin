@@ -15,3 +15,5 @@ Welcome to my little corner of GitHub!
 – Mother of cats (say hi to Kira & Kovu 😺)  
 – Retro gaming enthusiast 🎮  
 – I like mixing aesthetics with tech ✨
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&style=flat-square)
