@@ -16,8 +16,3 @@ Throw Pokéballs with VR controllers and interact with Pokémon using gaze - a W
 
 🏡 **Homeowners Association Website**  
 Custom-built editable admin site with Google App Script + Bootstrap.
-
-## 💌 Let’s Connect
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/astridavalin/)
-* 🌐 [Portfolio](https://www.avalin.dk/)
